@@ -1,0 +1,1 @@
+The objective was to predict the energy consumption of factory equipment using time series sensor data. The workflow included preprocessing, exploratory data analysis (EDA), feature engineering, and training of regression models including Random Forest and XGBoost with hyperparameter tuning via GridSearchCV.
